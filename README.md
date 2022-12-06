@@ -24,7 +24,7 @@ Change the constraints if required to use the onboard buttons (no change require
 Now follow the rest of the instructions in Getting started section. 
 
 ## Getting started
-1. Clone the project and open the project in Vivado.
+1. Clone and open the project in Vivado.
 2. Open the project in Vivado (tested in Vivado 2019.1) and do the necessary changes if you have a different FPGA board or you don't have the Digilent Pmod Joystick. See Requirements sections for the changes that needs to be done if you don't have the joystick. 
 3. Generate the bitstream and program it to the target FPGA board. 
 4. Connect the VGA port of the FPGA to a monitor and connect the joystick if available. 
