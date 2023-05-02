@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 ////////////////////////////////////////////////////////////////////////////////////////////
 // Company: Digilent Inc.
-// Engineer: Josh Sackos
+// Engineer:
 // 
 // Create Date:    07/11/2012
 // Module Name:    PmodJSTK
@@ -14,8 +14,8 @@
 //					 PmodJSTK when a request is made. The SPI controller component manages all
 //					 data transfer requests, and manages the data bytes being sent to the PmodJSTK.
 //
-// Revision History: 
-// 						Revision 0.01 - File Created (Josh Sackos)
+//  
+// 	
 ////////////////////////////////////////////////////////////////////////////////////////////
 
 // ==============================================================================
