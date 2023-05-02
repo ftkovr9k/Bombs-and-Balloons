@@ -26,8 +26,8 @@
 //					 data that is sent comes from the DIN input. Received data is output
 //					 on the DOUT output.
 //
-// Revision History: 
-// 						Revision 0.01 - File Created (Josh Sackos)
+// 
+// 				
 ///////////////////////////////////////////////////////////////////////////////////////
 
 
