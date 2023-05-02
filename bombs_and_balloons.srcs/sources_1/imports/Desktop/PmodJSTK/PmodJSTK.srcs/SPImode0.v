@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 ///////////////////////////////////////////////////////////////////////////////////////
 // Company: Digilent Inc.
-// Engineer: Josh Sackos
+// Engineer:
 // 
 // Create Date:    07/11/2012
 // Module Name:    spiMode0
